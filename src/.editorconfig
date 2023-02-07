@@ -1,4 +1,5 @@
-﻿[*.{cs,vb}]
+﻿
+[*.{cs,vb}]
 
 # IDE0033: Use explicitly provided tuple name
 dotnet_diagnostic.IDE0033.severity = warning

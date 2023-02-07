@@ -58,7 +58,8 @@ namespace OctoshiftCLI.Tests
         }
 
         [Fact]
-        public async Task Raises_Exception_When_File_Cannot_Be_Downloaded()
+        public async Task 
+        ()
         {
             // Arrange
             var url = "https://objects-staging-origin.githubusercontent.com/octoshiftmigrationlogs/github/example-repo.txt";
